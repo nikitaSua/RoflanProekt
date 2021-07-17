@@ -8,7 +8,7 @@ namespace BLL.DtoModels
 {
     public class ArticleModel : MaterialModel
     {
-        public string PublicationDate { get; set; }
+        public DateTime PublicationDate { get; set; }
         public string Link { get; set; }
     }
 }

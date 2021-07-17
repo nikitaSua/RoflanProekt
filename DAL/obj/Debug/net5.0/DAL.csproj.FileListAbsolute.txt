@@ -12,3 +12,4 @@ E:\NIx Projects\AspNetMvcEducationPortal\DAL\obj\Debug\net5.0\DAL.dll
 E:\NIx Projects\AspNetMvcEducationPortal\DAL\obj\Debug\net5.0\ref\DAL.dll
 E:\NIx Projects\AspNetMvcEducationPortal\DAL\obj\Debug\net5.0\DAL.pdb
 E:\NIx Projects\AspNetMvcEducationPortal\DAL\obj\Debug\net5.0\DAL.genruntimeconfig.cache
+E:\NIx Projects\AspNetMvcEducationPortal\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache

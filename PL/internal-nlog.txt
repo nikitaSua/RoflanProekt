@@ -172,3 +172,325 @@
 2021-07-17 10:49:44.2814 Info Adding target FileTarget(Name=allfile)
 2021-07-17 10:49:44.2814 Info Adding target FileTarget(Name=ownFile-web)
 2021-07-17 10:49:44.3424 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\NIx Projects\AspNetMvcEducationPortal\PL\bin\Debug\net5.0\nlog.config
+2021-07-17 13:02:13.1337 Info Message Template Auto Format enabled
+2021-07-17 13:02:13.1590 Info Loading assembly: NLog.Web.AspNetCore
+2021-07-17 13:02:13.2514 Info Adding target FileTarget(Name=allfile)
+2021-07-17 13:02:13.2514 Info Adding target FileTarget(Name=ownFile-web)
+2021-07-17 13:02:13.3211 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\NIx Projects\AspNetMvcEducationPortal\PL\bin\Debug\net5.0\nlog.config
+2021-07-17 13:33:20.3950 Info Message Template Auto Format enabled
+2021-07-17 13:33:20.4358 Info Loading assembly: NLog.Web.AspNetCore
+2021-07-17 13:33:20.5102 Info Adding target FileTarget(Name=allfile)
+2021-07-17 13:33:20.5279 Info Adding target FileTarget(Name=ownFile-web)
+2021-07-17 13:33:20.5838 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\NIx Projects\AspNetMvcEducationPortal\PL\bin\Debug\net5.0\nlog.config
+2021-07-17 13:40:32.4934 Info Message Template Auto Format enabled
+2021-07-17 13:40:32.5160 Info Loading assembly: NLog.Web.AspNetCore
+2021-07-17 13:40:32.5912 Info Adding target FileTarget(Name=allfile)
+2021-07-17 13:40:32.6017 Info Adding target FileTarget(Name=ownFile-web)
+2021-07-17 13:40:32.6589 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\NIx Projects\AspNetMvcEducationPortal\PL\bin\Debug\net5.0\nlog.config
+2021-07-17 13:41:46.0989 Info Message Template Auto Format enabled
+2021-07-17 13:41:46.1243 Info Loading assembly: NLog.Web.AspNetCore
+2021-07-17 13:41:46.1944 Info Adding target FileTarget(Name=allfile)
+2021-07-17 13:41:46.2047 Info Adding target FileTarget(Name=ownFile-web)
+2021-07-17 13:41:46.2651 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\NIx Projects\AspNetMvcEducationPortal\PL\bin\Debug\net5.0\nlog.config
+2021-07-17 13:43:01.9734 Info Message Template Auto Format enabled
+2021-07-17 13:43:01.9953 Info Loading assembly: NLog.Web.AspNetCore
+2021-07-17 13:43:02.0702 Info Adding target FileTarget(Name=allfile)
+2021-07-17 13:43:02.0992 Info Adding target FileTarget(Name=ownFile-web)
+2021-07-17 13:43:02.1542 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\NIx Projects\AspNetMvcEducationPortal\PL\bin\Debug\net5.0\nlog.config
+2021-07-17 13:48:33.8913 Info Message Template Auto Format enabled
+2021-07-17 13:48:33.9216 Info Loading assembly: NLog.Web.AspNetCore
+2021-07-17 13:48:34.0066 Info Adding target FileTarget(Name=allfile)
+2021-07-17 13:48:34.0191 Info Adding target FileTarget(Name=ownFile-web)
+2021-07-17 13:48:34.0941 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\NIx Projects\AspNetMvcEducationPortal\PL\bin\Debug\net5.0\nlog.config
+2021-07-17 13:52:58.7386 Info Message Template Auto Format enabled
+2021-07-17 13:52:58.7751 Info Loading assembly: NLog.Web.AspNetCore
+2021-07-17 13:52:58.8559 Info Adding target FileTarget(Name=allfile)
+2021-07-17 13:52:58.8737 Info Adding target FileTarget(Name=ownFile-web)
+2021-07-17 13:52:58.9308 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\NIx Projects\AspNetMvcEducationPortal\PL\bin\Debug\net5.0\nlog.config
+2021-07-17 13:55:06.9104 Info Message Template Auto Format enabled
+2021-07-17 13:55:06.9452 Info Loading assembly: NLog.Web.AspNetCore
+2021-07-17 13:55:07.0209 Info Adding target FileTarget(Name=allfile)
+2021-07-17 13:55:07.0452 Info Adding target FileTarget(Name=ownFile-web)
+2021-07-17 13:55:07.1030 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\NIx Projects\AspNetMvcEducationPortal\PL\bin\Debug\net5.0\nlog.config
+2021-07-17 13:56:14.8775 Info Message Template Auto Format enabled
+2021-07-17 13:56:14.9065 Info Loading assembly: NLog.Web.AspNetCore
+2021-07-17 13:56:14.9953 Info Adding target FileTarget(Name=allfile)
+2021-07-17 13:56:15.0079 Info Adding target FileTarget(Name=ownFile-web)
+2021-07-17 13:56:15.0684 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\NIx Projects\AspNetMvcEducationPortal\PL\bin\Debug\net5.0\nlog.config
+2021-07-17 13:58:43.5992 Info Message Template Auto Format enabled
+2021-07-17 13:58:43.6226 Info Loading assembly: NLog.Web.AspNetCore
+2021-07-17 13:58:43.6980 Info Adding target FileTarget(Name=allfile)
+2021-07-17 13:58:43.7082 Info Adding target FileTarget(Name=ownFile-web)
+2021-07-17 13:58:43.7727 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\NIx Projects\AspNetMvcEducationPortal\PL\bin\Debug\net5.0\nlog.config
+2021-07-17 14:01:02.7336 Info Message Template Auto Format enabled
+2021-07-17 14:01:02.7599 Info Loading assembly: NLog.Web.AspNetCore
+2021-07-17 14:01:02.8396 Info Adding target FileTarget(Name=allfile)
+2021-07-17 14:01:02.8504 Info Adding target FileTarget(Name=ownFile-web)
+2021-07-17 14:01:02.9079 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\NIx Projects\AspNetMvcEducationPortal\PL\bin\Debug\net5.0\nlog.config
+2021-07-17 14:06:44.1002 Info Message Template Auto Format enabled
+2021-07-17 14:06:44.1255 Info Loading assembly: NLog.Web.AspNetCore
+2021-07-17 14:06:44.2178 Info Adding target FileTarget(Name=allfile)
+2021-07-17 14:06:44.2397 Info Adding target FileTarget(Name=ownFile-web)
+2021-07-17 14:06:44.3394 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\NIx Projects\AspNetMvcEducationPortal\PL\bin\Debug\net5.0\nlog.config
+2021-07-17 14:07:43.6897 Info Message Template Auto Format enabled
+2021-07-17 14:07:43.7142 Info Loading assembly: NLog.Web.AspNetCore
+2021-07-17 14:07:43.7982 Info Adding target FileTarget(Name=allfile)
+2021-07-17 14:07:43.7982 Info Adding target FileTarget(Name=ownFile-web)
+2021-07-17 14:07:43.8738 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\NIx Projects\AspNetMvcEducationPortal\PL\bin\Debug\net5.0\nlog.config
+2021-07-17 14:12:13.1070 Info Message Template Auto Format enabled
+2021-07-17 14:12:13.1303 Info Loading assembly: NLog.Web.AspNetCore
+2021-07-17 14:12:13.2043 Info Adding target FileTarget(Name=allfile)
+2021-07-17 14:12:13.2453 Info Adding target FileTarget(Name=ownFile-web)
+2021-07-17 14:12:13.3087 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\NIx Projects\AspNetMvcEducationPortal\PL\bin\Debug\net5.0\nlog.config
+2021-07-17 14:14:06.3546 Info Message Template Auto Format enabled
+2021-07-17 14:14:06.3834 Info Loading assembly: NLog.Web.AspNetCore
+2021-07-17 14:14:06.4602 Info Adding target FileTarget(Name=allfile)
+2021-07-17 14:14:06.4751 Info Adding target FileTarget(Name=ownFile-web)
+2021-07-17 14:14:06.5432 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\NIx Projects\AspNetMvcEducationPortal\PL\bin\Debug\net5.0\nlog.config
+2021-07-17 14:16:20.7139 Info Message Template Auto Format enabled
+2021-07-17 14:16:20.7364 Info Loading assembly: NLog.Web.AspNetCore
+2021-07-17 14:16:20.8256 Info Adding target FileTarget(Name=allfile)
+2021-07-17 14:16:20.8370 Info Adding target FileTarget(Name=ownFile-web)
+2021-07-17 14:16:20.9107 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\NIx Projects\AspNetMvcEducationPortal\PL\bin\Debug\net5.0\nlog.config
+2021-07-17 14:19:12.1149 Info Message Template Auto Format enabled
+2021-07-17 14:19:12.1377 Info Loading assembly: NLog.Web.AspNetCore
+2021-07-17 14:19:12.2124 Info Adding target FileTarget(Name=allfile)
+2021-07-17 14:19:12.2235 Info Adding target FileTarget(Name=ownFile-web)
+2021-07-17 14:19:12.2778 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\NIx Projects\AspNetMvcEducationPortal\PL\bin\Debug\net5.0\nlog.config
+2021-07-17 14:21:27.1124 Info Message Template Auto Format enabled
+2021-07-17 14:21:27.1444 Info Loading assembly: NLog.Web.AspNetCore
+2021-07-17 14:21:27.2173 Info Adding target FileTarget(Name=allfile)
+2021-07-17 14:21:27.2292 Info Adding target FileTarget(Name=ownFile-web)
+2021-07-17 14:21:27.2815 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\NIx Projects\AspNetMvcEducationPortal\PL\bin\Debug\net5.0\nlog.config
+2021-07-17 14:22:16.8867 Info Message Template Auto Format enabled
+2021-07-17 14:22:16.9156 Info Loading assembly: NLog.Web.AspNetCore
+2021-07-17 14:22:16.9942 Info Adding target FileTarget(Name=allfile)
+2021-07-17 14:22:17.0076 Info Adding target FileTarget(Name=ownFile-web)
+2021-07-17 14:22:17.0699 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\NIx Projects\AspNetMvcEducationPortal\PL\bin\Debug\net5.0\nlog.config
+2021-07-17 14:25:01.4762 Info Message Template Auto Format enabled
+2021-07-17 14:25:01.5113 Info Loading assembly: NLog.Web.AspNetCore
+2021-07-17 14:25:01.5826 Info Adding target FileTarget(Name=allfile)
+2021-07-17 14:25:01.5942 Info Adding target FileTarget(Name=ownFile-web)
+2021-07-17 14:25:01.6495 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\NIx Projects\AspNetMvcEducationPortal\PL\bin\Debug\net5.0\nlog.config
+2021-07-17 14:26:53.8908 Info Message Template Auto Format enabled
+2021-07-17 14:26:53.9153 Info Loading assembly: NLog.Web.AspNetCore
+2021-07-17 14:26:53.9935 Info Adding target FileTarget(Name=allfile)
+2021-07-17 14:26:54.0103 Info Adding target FileTarget(Name=ownFile-web)
+2021-07-17 14:26:54.0654 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\NIx Projects\AspNetMvcEducationPortal\PL\bin\Debug\net5.0\nlog.config
+2021-07-17 14:31:44.6941 Info Message Template Auto Format enabled
+2021-07-17 14:31:44.7257 Info Loading assembly: NLog.Web.AspNetCore
+2021-07-17 14:31:44.8150 Info Adding target FileTarget(Name=allfile)
+2021-07-17 14:31:44.8280 Info Adding target FileTarget(Name=ownFile-web)
+2021-07-17 14:31:44.9084 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\NIx Projects\AspNetMvcEducationPortal\PL\bin\Debug\net5.0\nlog.config
+2021-07-17 14:36:07.4293 Info Message Template Auto Format enabled
+2021-07-17 14:36:07.4540 Info Loading assembly: NLog.Web.AspNetCore
+2021-07-17 14:36:07.5527 Info Adding target FileTarget(Name=allfile)
+2021-07-17 14:36:07.5790 Info Adding target FileTarget(Name=ownFile-web)
+2021-07-17 14:36:07.6606 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\NIx Projects\AspNetMvcEducationPortal\PL\bin\Debug\net5.0\nlog.config
+2021-07-17 14:37:30.1217 Info Message Template Auto Format enabled
+2021-07-17 14:37:30.1616 Info Loading assembly: NLog.Web.AspNetCore
+2021-07-17 14:37:30.2334 Info Adding target FileTarget(Name=allfile)
+2021-07-17 14:37:30.2334 Info Adding target FileTarget(Name=ownFile-web)
+2021-07-17 14:37:30.3009 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\NIx Projects\AspNetMvcEducationPortal\PL\bin\Debug\net5.0\nlog.config
+2021-07-17 14:38:32.0162 Info Message Template Auto Format enabled
+2021-07-17 14:38:32.0438 Info Loading assembly: NLog.Web.AspNetCore
+2021-07-17 14:38:32.1203 Info Adding target FileTarget(Name=allfile)
+2021-07-17 14:38:32.1313 Info Adding target FileTarget(Name=ownFile-web)
+2021-07-17 14:38:32.1873 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\NIx Projects\AspNetMvcEducationPortal\PL\bin\Debug\net5.0\nlog.config
+2021-07-17 14:39:59.3237 Info Message Template Auto Format enabled
+2021-07-17 14:39:59.3459 Info Loading assembly: NLog.Web.AspNetCore
+2021-07-17 14:39:59.4144 Info Adding target FileTarget(Name=allfile)
+2021-07-17 14:39:59.4246 Info Adding target FileTarget(Name=ownFile-web)
+2021-07-17 14:39:59.5060 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\NIx Projects\AspNetMvcEducationPortal\PL\bin\Debug\net5.0\nlog.config
+2021-07-17 14:41:16.0426 Info Message Template Auto Format enabled
+2021-07-17 14:41:16.0710 Info Loading assembly: NLog.Web.AspNetCore
+2021-07-17 14:41:16.1437 Info Adding target FileTarget(Name=allfile)
+2021-07-17 14:41:16.1765 Info Adding target FileTarget(Name=ownFile-web)
+2021-07-17 14:41:16.2531 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\NIx Projects\AspNetMvcEducationPortal\PL\bin\Debug\net5.0\nlog.config
+2021-07-17 14:42:26.9413 Info Message Template Auto Format enabled
+2021-07-17 14:42:26.9677 Info Loading assembly: NLog.Web.AspNetCore
+2021-07-17 14:42:27.0505 Info Adding target FileTarget(Name=allfile)
+2021-07-17 14:42:27.0622 Info Adding target FileTarget(Name=ownFile-web)
+2021-07-17 14:42:27.1221 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\NIx Projects\AspNetMvcEducationPortal\PL\bin\Debug\net5.0\nlog.config
+2021-07-17 15:24:34.7222 Info Message Template Auto Format enabled
+2021-07-17 15:24:34.7460 Info Loading assembly: NLog.Web.AspNetCore
+2021-07-17 15:24:34.8325 Info Adding target FileTarget(Name=allfile)
+2021-07-17 15:24:34.8480 Info Adding target FileTarget(Name=ownFile-web)
+2021-07-17 15:24:34.9340 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\NIx Projects\AspNetMvcEducationPortal\PL\bin\Debug\net5.0\nlog.config
+2021-07-17 15:25:35.5520 Info Message Template Auto Format enabled
+2021-07-17 15:25:35.5740 Info Loading assembly: NLog.Web.AspNetCore
+2021-07-17 15:25:35.6483 Info Adding target FileTarget(Name=allfile)
+2021-07-17 15:25:35.6602 Info Adding target FileTarget(Name=ownFile-web)
+2021-07-17 15:25:35.7422 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\NIx Projects\AspNetMvcEducationPortal\PL\bin\Debug\net5.0\nlog.config
+2021-07-17 16:00:30.5626 Info Message Template Auto Format enabled
+2021-07-17 16:00:30.5856 Info Loading assembly: NLog.Web.AspNetCore
+2021-07-17 16:00:30.6562 Info Adding target FileTarget(Name=allfile)
+2021-07-17 16:00:30.6562 Info Adding target FileTarget(Name=ownFile-web)
+2021-07-17 16:00:30.7274 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\NIx Projects\AspNetMvcEducationPortal\PL\bin\Debug\net5.0\nlog.config
+2021-07-17 16:01:40.2650 Info Message Template Auto Format enabled
+2021-07-17 16:01:40.2894 Info Loading assembly: NLog.Web.AspNetCore
+2021-07-17 16:01:40.3639 Info Adding target FileTarget(Name=allfile)
+2021-07-17 16:01:40.3740 Info Adding target FileTarget(Name=ownFile-web)
+2021-07-17 16:01:40.4304 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\NIx Projects\AspNetMvcEducationPortal\PL\bin\Debug\net5.0\nlog.config
+2021-07-17 16:03:19.7073 Info Message Template Auto Format enabled
+2021-07-17 16:03:19.7353 Info Loading assembly: NLog.Web.AspNetCore
+2021-07-17 16:03:19.8237 Info Adding target FileTarget(Name=allfile)
+2021-07-17 16:03:19.8455 Info Adding target FileTarget(Name=ownFile-web)
+2021-07-17 16:03:19.9115 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\NIx Projects\AspNetMvcEducationPortal\PL\bin\Debug\net5.0\nlog.config
+2021-07-17 16:07:21.5227 Info Message Template Auto Format enabled
+2021-07-17 16:07:21.5453 Info Loading assembly: NLog.Web.AspNetCore
+2021-07-17 16:07:21.6199 Info Adding target FileTarget(Name=allfile)
+2021-07-17 16:07:21.6414 Info Adding target FileTarget(Name=ownFile-web)
+2021-07-17 16:07:21.6939 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\NIx Projects\AspNetMvcEducationPortal\PL\bin\Debug\net5.0\nlog.config
+2021-07-17 16:09:24.7818 Info Message Template Auto Format enabled
+2021-07-17 16:09:24.8066 Info Loading assembly: NLog.Web.AspNetCore
+2021-07-17 16:09:24.8732 Info Adding target FileTarget(Name=allfile)
+2021-07-17 16:09:24.8841 Info Adding target FileTarget(Name=ownFile-web)
+2021-07-17 16:09:24.9363 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\NIx Projects\AspNetMvcEducationPortal\PL\bin\Debug\net5.0\nlog.config
+2021-07-17 16:11:36.3049 Info Message Template Auto Format enabled
+2021-07-17 16:11:36.3282 Info Loading assembly: NLog.Web.AspNetCore
+2021-07-17 16:11:36.4014 Info Adding target FileTarget(Name=allfile)
+2021-07-17 16:11:36.4142 Info Adding target FileTarget(Name=ownFile-web)
+2021-07-17 16:11:36.4747 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\NIx Projects\AspNetMvcEducationPortal\PL\bin\Debug\net5.0\nlog.config
+2021-07-17 16:14:14.4125 Info Message Template Auto Format enabled
+2021-07-17 16:14:14.4333 Info Loading assembly: NLog.Web.AspNetCore
+2021-07-17 16:14:14.5024 Info Adding target FileTarget(Name=allfile)
+2021-07-17 16:14:14.5024 Info Adding target FileTarget(Name=ownFile-web)
+2021-07-17 16:14:14.5718 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\NIx Projects\AspNetMvcEducationPortal\PL\bin\Debug\net5.0\nlog.config
+2021-07-17 16:17:28.3517 Info Message Template Auto Format enabled
+2021-07-17 16:17:28.3854 Info Loading assembly: NLog.Web.AspNetCore
+2021-07-17 16:17:28.4640 Info Adding target FileTarget(Name=allfile)
+2021-07-17 16:17:28.4807 Info Adding target FileTarget(Name=ownFile-web)
+2021-07-17 16:17:28.5341 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\NIx Projects\AspNetMvcEducationPortal\PL\bin\Debug\net5.0\nlog.config
+2021-07-17 16:27:02.3881 Info Message Template Auto Format enabled
+2021-07-17 16:27:02.4150 Info Loading assembly: NLog.Web.AspNetCore
+2021-07-17 16:27:02.4881 Info Adding target FileTarget(Name=allfile)
+2021-07-17 16:27:02.5013 Info Adding target FileTarget(Name=ownFile-web)
+2021-07-17 16:27:02.5569 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\NIx Projects\AspNetMvcEducationPortal\PL\bin\Debug\net5.0\nlog.config
+2021-07-17 16:30:40.4037 Info Message Template Auto Format enabled
+2021-07-17 16:30:40.4328 Info Loading assembly: NLog.Web.AspNetCore
+2021-07-17 16:30:40.5117 Info Adding target FileTarget(Name=allfile)
+2021-07-17 16:30:40.5244 Info Adding target FileTarget(Name=ownFile-web)
+2021-07-17 16:30:40.5828 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\NIx Projects\AspNetMvcEducationPortal\PL\bin\Debug\net5.0\nlog.config
+2021-07-17 16:38:15.9664 Info Message Template Auto Format enabled
+2021-07-17 16:38:15.9909 Info Loading assembly: NLog.Web.AspNetCore
+2021-07-17 16:38:16.0633 Info Adding target FileTarget(Name=allfile)
+2021-07-17 16:38:16.0633 Info Adding target FileTarget(Name=ownFile-web)
+2021-07-17 16:38:16.1321 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\NIx Projects\AspNetMvcEducationPortal\PL\bin\Debug\net5.0\nlog.config
+2021-07-17 16:50:13.3083 Info Message Template Auto Format enabled
+2021-07-17 16:50:13.3323 Info Loading assembly: NLog.Web.AspNetCore
+2021-07-17 16:50:13.3952 Info Adding target FileTarget(Name=allfile)
+2021-07-17 16:50:13.4049 Info Adding target FileTarget(Name=ownFile-web)
+2021-07-17 16:50:13.4613 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\NIx Projects\AspNetMvcEducationPortal\PL\bin\Debug\net5.0\nlog.config
+2021-07-17 16:52:02.1349 Info Message Template Auto Format enabled
+2021-07-17 16:52:02.9957 Info Loading assembly: NLog.Web.AspNetCore
+2021-07-17 16:52:03.0616 Info Adding target FileTarget(Name=allfile)
+2021-07-17 16:52:03.0979 Info Adding target FileTarget(Name=ownFile-web)
+2021-07-17 16:52:03.1544 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\NIx Projects\AspNetMvcEducationPortal\PL\bin\Debug\net5.0\nlog.config
+2021-07-17 16:57:58.7236 Info Message Template Auto Format enabled
+2021-07-17 16:57:58.7236 Info Loading assembly: NLog.Web.AspNetCore
+2021-07-17 16:57:58.7808 Info Adding target FileTarget(Name=allfile)
+2021-07-17 16:57:58.7808 Info Adding target FileTarget(Name=ownFile-web)
+2021-07-17 16:57:58.8090 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\NIx Projects\AspNetMvcEducationPortal\PL\bin\Debug\net5.0\NLog.config
+2021-07-17 16:57:58.8322 Info Configuration initialized.
+2021-07-17 16:57:58.8322 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.10.13013. Product version: 4.7.10+8142cd035d2c212fd82a4eb0081aed68da713b9e. GlobalAssemblyCache: False
+2021-07-17 16:58:00.0218 Info AppDomain Shutting down. Logger closing...
+2021-07-17 16:58:00.0361 Info Logger has been shut down.
+2021-07-17 16:58:06.0547 Info Message Template Auto Format enabled
+2021-07-17 16:58:06.0651 Info Loading assembly: NLog.Web.AspNetCore
+2021-07-17 16:58:06.1289 Info Adding target FileTarget(Name=allfile)
+2021-07-17 16:58:06.1289 Info Adding target FileTarget(Name=ownFile-web)
+2021-07-17 16:58:06.1548 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\NIx Projects\AspNetMvcEducationPortal\PL\bin\Debug\net5.0\NLog.config
+2021-07-17 16:58:06.1717 Info Configuration initialized.
+2021-07-17 16:58:06.1717 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.10.13013. Product version: 4.7.10+8142cd035d2c212fd82a4eb0081aed68da713b9e. GlobalAssemblyCache: False
+2021-07-17 16:58:07.4757 Info AppDomain Shutting down. Logger closing...
+2021-07-17 16:58:07.4914 Info Logger has been shut down.
+2021-07-17 16:58:25.2939 Info Message Template Auto Format enabled
+2021-07-17 16:58:25.3029 Info Loading assembly: NLog.Web.AspNetCore
+2021-07-17 16:58:25.3442 Info Adding target FileTarget(Name=allfile)
+2021-07-17 16:58:25.3442 Info Adding target FileTarget(Name=ownFile-web)
+2021-07-17 16:58:25.3673 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\NIx Projects\AspNetMvcEducationPortal\PL\bin\Debug\net5.0\NLog.config
+2021-07-17 16:58:25.3827 Info Configuration initialized.
+2021-07-17 16:58:25.3827 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.10.13013. Product version: 4.7.10+8142cd035d2c212fd82a4eb0081aed68da713b9e. GlobalAssemblyCache: False
+2021-07-17 16:58:26.8459 Info AppDomain Shutting down. Logger closing...
+2021-07-17 16:58:26.8598 Info Logger has been shut down.
+2021-07-17 16:58:37.0823 Info Message Template Auto Format enabled
+2021-07-17 16:58:37.1044 Info Loading assembly: NLog.Web.AspNetCore
+2021-07-17 16:58:37.1744 Info Adding target FileTarget(Name=allfile)
+2021-07-17 16:58:37.1744 Info Adding target FileTarget(Name=ownFile-web)
+2021-07-17 16:58:37.2323 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\NIx Projects\AspNetMvcEducationPortal\PL\bin\Debug\net5.0\nlog.config
+2021-07-17 16:59:51.7137 Info Message Template Auto Format enabled
+2021-07-17 16:59:51.7272 Info Loading assembly: NLog.Web.AspNetCore
+2021-07-17 16:59:51.7738 Info Adding target FileTarget(Name=allfile)
+2021-07-17 16:59:51.7738 Info Adding target FileTarget(Name=ownFile-web)
+2021-07-17 16:59:51.8176 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\NIx Projects\AspNetMvcEducationPortal\PL\bin\Debug\net5.0\nlog.config
+2021-07-17 17:10:27.1967 Info Message Template Auto Format enabled
+2021-07-17 17:10:27.2097 Info Loading assembly: NLog.Web.AspNetCore
+2021-07-17 17:10:27.2592 Info Adding target FileTarget(Name=allfile)
+2021-07-17 17:10:27.2592 Info Adding target FileTarget(Name=ownFile-web)
+2021-07-17 17:10:27.2928 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\NIx Projects\AspNetMvcEducationPortal\PL\bin\Debug\net5.0\nlog.config
+2021-07-17 17:25:32.9266 Info Message Template Auto Format enabled
+2021-07-17 17:25:32.9512 Info Loading assembly: NLog.Web.AspNetCore
+2021-07-17 17:25:33.0221 Info Adding target FileTarget(Name=allfile)
+2021-07-17 17:25:33.0356 Info Adding target FileTarget(Name=ownFile-web)
+2021-07-17 17:25:33.0986 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\NIx Projects\AspNetMvcEducationPortal\PL\bin\Debug\net5.0\nlog.config
+2021-07-17 17:27:09.1005 Info Message Template Auto Format enabled
+2021-07-17 17:27:09.1204 Info Loading assembly: NLog.Web.AspNetCore
+2021-07-17 17:27:09.1809 Info Adding target FileTarget(Name=allfile)
+2021-07-17 17:27:09.1954 Info Adding target FileTarget(Name=ownFile-web)
+2021-07-17 17:27:09.2465 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\NIx Projects\AspNetMvcEducationPortal\PL\bin\Debug\net5.0\nlog.config
+2021-07-17 17:29:23.2413 Info Message Template Auto Format enabled
+2021-07-17 17:29:23.2654 Info Loading assembly: NLog.Web.AspNetCore
+2021-07-17 17:29:23.3421 Info Adding target FileTarget(Name=allfile)
+2021-07-17 17:29:23.3528 Info Adding target FileTarget(Name=ownFile-web)
+2021-07-17 17:29:23.4113 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\NIx Projects\AspNetMvcEducationPortal\PL\bin\Debug\net5.0\nlog.config
+2021-07-17 17:31:58.7117 Info Message Template Auto Format enabled
+2021-07-17 17:31:58.7411 Info Loading assembly: NLog.Web.AspNetCore
+2021-07-17 17:31:58.8181 Info Adding target FileTarget(Name=allfile)
+2021-07-17 17:31:58.8350 Info Adding target FileTarget(Name=ownFile-web)
+2021-07-17 17:31:58.9249 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\NIx Projects\AspNetMvcEducationPortal\PL\bin\Debug\net5.0\nlog.config
+2021-07-17 17:35:13.5227 Info Message Template Auto Format enabled
+2021-07-17 17:35:13.5438 Info Loading assembly: NLog.Web.AspNetCore
+2021-07-17 17:35:13.6093 Info Adding target FileTarget(Name=allfile)
+2021-07-17 17:35:13.6093 Info Adding target FileTarget(Name=ownFile-web)
+2021-07-17 17:35:13.6747 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\NIx Projects\AspNetMvcEducationPortal\PL\bin\Debug\net5.0\nlog.config
+2021-07-17 17:38:17.6804 Info Message Template Auto Format enabled
+2021-07-17 17:38:17.7038 Info Loading assembly: NLog.Web.AspNetCore
+2021-07-17 17:38:17.7635 Info Adding target FileTarget(Name=allfile)
+2021-07-17 17:38:17.7747 Info Adding target FileTarget(Name=ownFile-web)
+2021-07-17 17:38:17.8349 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\NIx Projects\AspNetMvcEducationPortal\PL\bin\Debug\net5.0\nlog.config
+2021-07-17 17:41:02.8198 Info Message Template Auto Format enabled
+2021-07-17 17:41:02.8442 Info Loading assembly: NLog.Web.AspNetCore
+2021-07-17 17:41:02.9066 Info Adding target FileTarget(Name=allfile)
+2021-07-17 17:41:02.9066 Info Adding target FileTarget(Name=ownFile-web)
+2021-07-17 17:41:02.9770 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\NIx Projects\AspNetMvcEducationPortal\PL\bin\Debug\net5.0\nlog.config
+2021-07-17 17:41:26.9681 Info Message Template Auto Format enabled
+2021-07-17 17:41:26.9916 Info Loading assembly: NLog.Web.AspNetCore
+2021-07-17 17:41:27.0600 Info Adding target FileTarget(Name=allfile)
+2021-07-17 17:41:27.0716 Info Adding target FileTarget(Name=ownFile-web)
+2021-07-17 17:41:27.1317 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\NIx Projects\AspNetMvcEducationPortal\PL\bin\Debug\net5.0\nlog.config
+2021-07-17 18:03:53.0895 Info Message Template Auto Format enabled
+2021-07-17 18:03:53.1128 Info Loading assembly: NLog.Web.AspNetCore
+2021-07-17 18:03:53.1692 Info Adding target FileTarget(Name=allfile)
+2021-07-17 18:03:53.1800 Info Adding target FileTarget(Name=ownFile-web)
+2021-07-17 18:03:53.2334 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\NIx Projects\AspNetMvcEducationPortal\PL\bin\Debug\net5.0\nlog.config
+2021-07-17 18:06:36.5482 Info Message Template Auto Format enabled
+2021-07-17 18:06:36.5699 Info Loading assembly: NLog.Web.AspNetCore
+2021-07-17 18:06:36.6289 Info Adding target FileTarget(Name=allfile)
+2021-07-17 18:06:36.6289 Info Adding target FileTarget(Name=ownFile-web)
+2021-07-17 18:06:36.6818 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\NIx Projects\AspNetMvcEducationPortal\PL\bin\Debug\net5.0\nlog.config
+2021-07-17 18:09:32.0104 Info Message Template Auto Format enabled
+2021-07-17 18:09:32.0323 Info Loading assembly: NLog.Web.AspNetCore
+2021-07-17 18:09:32.0985 Info Adding target FileTarget(Name=allfile)
+2021-07-17 18:09:32.1112 Info Adding target FileTarget(Name=ownFile-web)
+2021-07-17 18:09:32.1648 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\NIx Projects\AspNetMvcEducationPortal\PL\bin\Debug\net5.0\nlog.config
+2021-07-17 18:12:05.4172 Info Message Template Auto Format enabled
+2021-07-17 18:12:05.4388 Info Loading assembly: NLog.Web.AspNetCore
+2021-07-17 18:12:05.4970 Info Adding target FileTarget(Name=allfile)
+2021-07-17 18:12:05.5070 Info Adding target FileTarget(Name=ownFile-web)
+2021-07-17 18:12:05.5483 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\NIx Projects\AspNetMvcEducationPortal\PL\bin\Debug\net5.0\nlog.config
+2021-07-17 18:13:22.6288 Info Message Template Auto Format enabled
+2021-07-17 18:13:22.6569 Info Loading assembly: NLog.Web.AspNetCore
+2021-07-17 18:13:22.7248 Info Adding target FileTarget(Name=allfile)
+2021-07-17 18:13:22.7356 Info Adding target FileTarget(Name=ownFile-web)
+2021-07-17 18:13:22.7865 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\NIx Projects\AspNetMvcEducationPortal\PL\bin\Debug\net5.0\nlog.config

@@ -10,6 +10,8 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using PL.ServicesExtensions;
+using PL.Validators;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -29,20 +31,12 @@ namespace PL
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddScoped<IRepository, EfRepository>();
-            services.AddScoped<AccountService>();
-            //services.AddScoped<IUserSkillService, UserSkillService>();
-            services.AddScoped<IAutorBookService, AutorBookService>();
-            services.AddScoped<IAutorService, AutorService>();
-            services.AddScoped<ICourseMaterialService, CourseMaterialService>();
-            //services.AddScoped<ICourseUserService, CourseUserService>();
-            services.AddScoped<IMaterialSkillService, MaterialSkillService>();
-            services.AddScoped<ICourseService, CourseService>();
-            services.AddScoped<ISkillService, SkillService>();
-            //services.AddScoped<IUserService, UserService>();
-            services.AddScoped<IMaterialService, MaterialService>();
+            
 
             services.AddControllersWithViews();
+
+            ValidatorExtension.AddValidators(services);
+            RegistrationOfInversions.AddDependensys(services);
 
             services.AddDbContext<ProtalDbContext>(options =>
     options.UseSqlServer(Configuration.GetConnectionString("MvcEducationPortalContext")));
@@ -59,6 +53,7 @@ namespace PL
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
+            
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();

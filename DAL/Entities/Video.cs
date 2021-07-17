@@ -9,6 +9,6 @@ namespace DAL.Entities
     public class Video : Material
     {
         public string Quality { get; set; }
-        public TimeSpan Duration { get; set; }
+        public string Duration { get; set; }
     }
 }

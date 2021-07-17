@@ -329,8 +329,9 @@ namespace DAL.Migrations
                 {
                     b.HasBaseType("DAL.Entities.Material");
 
-                    b.Property<TimeSpan>("Duration")
-                        .HasColumnType("time")
+                    b.Property<string>("Duration")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)")
                         .HasColumnName("Duration");
 
                     b.Property<string>("Quality")

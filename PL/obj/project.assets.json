@@ -8023,6 +8023,7 @@
       "DAL >= 1.0.0",
       "FluentValidation.AspNetCore >= 10.3.0",
       "Microsoft.EntityFrameworkCore.Design >= 5.0.8",
+      "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.8",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 5.0.2",
       "NLog.Web.AspNetCore >= 4.13.0"
     ]
@@ -8080,6 +8081,10 @@
           "Microsoft.EntityFrameworkCore.Design": {
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
             "suppressParent": "All",
+            "target": "Package",
+            "version": "[5.0.8, )"
+          },
+          "Microsoft.EntityFrameworkCore.SqlServer": {
             "target": "Package",
             "version": "[5.0.8, )"
           },

@@ -62,34 +62,52 @@ namespace BLL.Services
         public void UpdateArticle(int id, ArticleModel model)
         {
             var article = this.repository.FirstorDefault<Article>(x => x.Id == id);
+            var material = this.repository.FirstorDefault<Material>(x => x.Id == id);
             if (article == null)
             {
                 throw new NullReferenceException();
-            } 
-            article = _mapper.Map<Article>(model);
+            }
+            article.PublicationDate = Convert.ToDateTime(model.PublicationDate);
+            article.Link = model.Link;
+            material.Name = model.Name;
+            material.Description = model.Description;
             this.repository.UpdateAndSave(article);
+            this.repository.UpdateAndSave(material);
         }
 
         public void UpdateVideo(int id, VideoModel model)
         {
             var video = this.repository.FirstorDefault<Video>(x => x.Id == id);
+            var material = this.repository.FirstorDefault<Material>(x => x.Id == id);
             if (video == null)
             {
                 throw new NullReferenceException();
             }
-            video = _mapper.Map<Video>(model);
+            video.Id = model.Id;
+            video.Quality = model.Quality;
+            video.Duration = model.Duration;
+            material.Name = model.Name;
+            material.Description = model.Description;
             this.repository.UpdateAndSave(video);
+            this.repository.UpdateAndSave(material);
         }
 
         public void UpdateBook(int id, BookModel model)
         {
             var book = this.repository.FirstorDefault<Book>(x => x.Id == id);
+            var material = this.repository.FirstorDefault<Material>(x => x.Id == id);
             if (book == null)
             {
                 throw new NullReferenceException();
             }
-            book = _mapper.Map<Book>(model);
+
+            book.Id = model.Id;
+            book.NumOfPage = model.NumOfPage;
+            book.YearOfPublishing = model.YearOfPublishing;
+            material.Name = model.Name;
+            material.Description = model.Description;
             this.repository.UpdateAndSave(book);
+            this.repository.UpdateAndSave(material);
         }
 
         public MaterialModel GetMaterialById(int id)
