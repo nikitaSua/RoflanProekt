@@ -1,0 +1,15 @@
+E:\NIx Projects\AspNetMvcEducationPortal\BLL\obj\Debug\net5.0\BLL.csprojAssemblyReference.cache
+E:\NIx Projects\AspNetMvcEducationPortal\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\NIx Projects\AspNetMvcEducationPortal\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+E:\NIx Projects\AspNetMvcEducationPortal\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+E:\NIx Projects\AspNetMvcEducationPortal\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+E:\NIx Projects\AspNetMvcEducationPortal\BLL\bin\Debug\net5.0\BLL.deps.json
+E:\NIx Projects\AspNetMvcEducationPortal\BLL\bin\Debug\net5.0\BLL.dll
+E:\NIx Projects\AspNetMvcEducationPortal\BLL\bin\Debug\net5.0\ref\BLL.dll
+E:\NIx Projects\AspNetMvcEducationPortal\BLL\bin\Debug\net5.0\BLL.pdb
+E:\NIx Projects\AspNetMvcEducationPortal\BLL\obj\Debug\net5.0\BLL.dll
+E:\NIx Projects\AspNetMvcEducationPortal\BLL\obj\Debug\net5.0\ref\BLL.dll
+E:\NIx Projects\AspNetMvcEducationPortal\BLL\obj\Debug\net5.0\BLL.pdb
+E:\NIx Projects\AspNetMvcEducationPortal\BLL\bin\Debug\net5.0\DAL.dll
+E:\NIx Projects\AspNetMvcEducationPortal\BLL\bin\Debug\net5.0\DAL.pdb
+E:\NIx Projects\AspNetMvcEducationPortal\BLL\obj\Debug\net5.0\BLL.csproj.CopyComplete

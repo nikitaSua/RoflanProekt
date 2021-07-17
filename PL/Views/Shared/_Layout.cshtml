@@ -1,0 +1,53 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - PL1</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+    <link rel="stylesheet" href="~/css/LayoutStyles.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+</head>
+<body>
+    <section class="Head">
+        <nav class="nav main_menu">
+            <div class="col-md-6">
+                <a class="navbar-brand" href="#">
+                    <img src="~/img/logo2.png" width="30" height="30" class="d-inline-block align-top" alt="">
+                    Education
+                </a>
+                <a class="nav-link active" aria-current="page" href="#">Home</a>
+                <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                <a class="nav-link" href="#">About</a>
+                <a class="nav-link" href="#">Courser</a>
+                <a class="nav-link" href="#">Mentors</a>
+            </div>
+
+            <div class="col-md-5 control_bar">
+                <a class="nav-link control_link" asp-area="" asp-controller="Account" asp-action="Login">Login</a>
+                <a class="nav-link control_link" asp-area="" asp-controller="Account" asp-action="Register">Register</a>
+                <a class="nav-link control_link" asp-area="" asp-controller="Account" asp-action="Logout">Logout</a>
+            </div>
+
+        </nav>
+    </section>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2021 - PL - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

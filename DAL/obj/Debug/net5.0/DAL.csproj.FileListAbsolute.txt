@@ -1,0 +1,14 @@
+E:\NIx Projects\AspNetMvcEducationPortal\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\NIx Projects\AspNetMvcEducationPortal\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+E:\NIx Projects\AspNetMvcEducationPortal\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+E:\NIx Projects\AspNetMvcEducationPortal\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+E:\NIx Projects\AspNetMvcEducationPortal\DAL\bin\Debug\net5.0\DAL.deps.json
+E:\NIx Projects\AspNetMvcEducationPortal\DAL\bin\Debug\net5.0\DAL.runtimeconfig.json
+E:\NIx Projects\AspNetMvcEducationPortal\DAL\bin\Debug\net5.0\DAL.runtimeconfig.dev.json
+E:\NIx Projects\AspNetMvcEducationPortal\DAL\bin\Debug\net5.0\DAL.dll
+E:\NIx Projects\AspNetMvcEducationPortal\DAL\bin\Debug\net5.0\ref\DAL.dll
+E:\NIx Projects\AspNetMvcEducationPortal\DAL\bin\Debug\net5.0\DAL.pdb
+E:\NIx Projects\AspNetMvcEducationPortal\DAL\obj\Debug\net5.0\DAL.dll
+E:\NIx Projects\AspNetMvcEducationPortal\DAL\obj\Debug\net5.0\ref\DAL.dll
+E:\NIx Projects\AspNetMvcEducationPortal\DAL\obj\Debug\net5.0\DAL.pdb
+E:\NIx Projects\AspNetMvcEducationPortal\DAL\obj\Debug\net5.0\DAL.genruntimeconfig.cache
