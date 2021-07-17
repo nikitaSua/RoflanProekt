@@ -57,8 +57,9 @@ namespace BLL.Services
             if (autor == null)
             {
                 throw new NullReferenceException();
-            }  
-            autor = _mapper.Map<Autor>(model);
+            }
+            autor.Id = model.Id;
+            autor.Name = model.Name;
             this.repository.UpdateAndSave(autor);
         }
 
