@@ -529,3 +529,17 @@
 2021-07-17 19:40:59.1092 Info Adding target FileTarget(Name=allfile)
 2021-07-17 19:40:59.1092 Info Adding target FileTarget(Name=ownFile-web)
 2021-07-17 19:40:59.1858 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\NIx Projects\AspNetMvcEducationPortal\PL\bin\Debug\net5.0\nlog.config
+2021-07-18 16:48:08.0813 Info Message Template Auto Format enabled
+2021-07-18 16:48:08.1012 Info Loading assembly: NLog.Web.AspNetCore
+2021-07-18 16:48:08.1508 Info Adding target FileTarget(Name=allfile)
+2021-07-18 16:48:08.1508 Info Adding target FileTarget(Name=ownFile-web)
+2021-07-18 16:48:08.1777 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\NIx Projects\AspNetMvcEducationPortal\PL\bin\Debug\net5.0\NLog.config
+2021-07-18 16:48:08.1897 Info Configuration initialized.
+2021-07-18 16:48:08.1897 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.10.13013. Product version: 4.7.10+8142cd035d2c212fd82a4eb0081aed68da713b9e. GlobalAssemblyCache: False
+2021-07-18 16:48:12.1388 Info AppDomain Shutting down. Logger closing...
+2021-07-18 16:48:12.1523 Info Logger has been shut down.
+2021-07-18 16:50:30.3315 Info Message Template Auto Format enabled
+2021-07-18 16:50:30.3547 Info Loading assembly: NLog.Web.AspNetCore
+2021-07-18 16:50:30.4186 Info Adding target FileTarget(Name=allfile)
+2021-07-18 16:50:30.4321 Info Adding target FileTarget(Name=ownFile-web)
+2021-07-18 16:50:30.4866 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\NIx Projects\AspNetMvcEducationPortal\PL\bin\Debug\net5.0\nlog.config

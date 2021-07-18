@@ -8,7 +8,7 @@ namespace BLL.DtoModels
     {
         public int Id { get; set; }
         public int Level { get; set; }
-        public string UserId { get; set; }
+        public int UserId { get; set; }
         public virtual UserModel User { get; set; }
         public int? SkillId { get; set; }
         public virtual SkillModel Skill { get; set; }

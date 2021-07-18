@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "pFiHGj2ZC+VSzEtPKKjkvq49h9M10U2FGSqs64bnUVuOctrPqzZotRvTTyX7ysPRtuFZgNPXltwfUi2a2Z+Rmw==",
+  "dgSpecHash": "hHUYQp2k+rEZ/r8N/5NRhKD1ZJIA+f57rhJByxYOqsERYqzvN34ffD7adHTZdJ57x/WkLHL+Z+07JkjetGClCg==",
   "success": true,
   "projectFilePath": "E:\\NIx Projects\\AspNetMvcEducationPortal\\PL\\PL.csproj",
   "expectedPackageFiles": [
@@ -43,6 +43,7 @@
     "C:\\Users\\Никита\\.nuget\\packages\\microsoft.entityframeworkcore.design\\5.0.8\\microsoft.entityframeworkcore.design.5.0.8.nupkg.sha512",
     "C:\\Users\\Никита\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\5.0.8\\microsoft.entityframeworkcore.relational.5.0.8.nupkg.sha512",
     "C:\\Users\\Никита\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\5.0.8\\microsoft.entityframeworkcore.sqlserver.5.0.8.nupkg.sha512",
+    "C:\\Users\\Никита\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\5.0.8\\microsoft.entityframeworkcore.tools.5.0.8.nupkg.sha512",
     "C:\\Users\\Никита\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\Никита\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0\\microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",
     "C:\\Users\\Никита\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",

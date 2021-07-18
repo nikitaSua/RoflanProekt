@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace BLL.Interfaces
 {
-    interface IUserSkillService
+    public interface IUserSkillService
     {
         IEnumerable<UserSkillModel> GetUserSkills(Expression<Func<UserSkill, bool>> predicate);
 

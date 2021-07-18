@@ -18,6 +18,7 @@ namespace DAL.DBExt
         public virtual DbSet<Material> Materials { get; set; }
         public virtual DbSet<Article> Articles { get; set; }
         public virtual DbSet<Autor> Autors { get; set; }
+        public virtual DbSet<AutorBook> AutorBooks { get; set; }
         public virtual DbSet<Book> Books { get; set; }
         public virtual DbSet<Course> Courses { get; set; }
         public virtual DbSet<CourseMaterial> CourseMaterials { get; set; }

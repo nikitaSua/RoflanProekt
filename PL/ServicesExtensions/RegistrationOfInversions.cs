@@ -15,15 +15,15 @@ namespace PL.ServicesExtensions
         {
             services.AddScoped<IRepository, EfRepository>();
             services.AddScoped<AccountService>();
-            //services.AddScoped<IUserSkillService, UserSkillService>();
+            services.AddScoped<IUserSkillService, UserSkillService>();
             services.AddScoped<IAutorBookService, AutorBookService>();
             services.AddScoped<IAutorService, AutorService>();
             services.AddScoped<ICourseMaterialService, CourseMaterialService>();
-            //services.AddScoped<ICourseUserService, CourseUserService>();
+            services.AddScoped<ICourseUserService, CourseUserService>();
             services.AddScoped<IMaterialSkillService, MaterialSkillService>();
             services.AddScoped<ICourseService, CourseService>();
             services.AddScoped<ISkillService, SkillService>();
-            //services.AddScoped<IUserService, UserService>();
+            services.AddScoped<IUserService, UserService>();
             services.AddScoped<IMaterialService, MaterialService>();
             return services;
         }

@@ -191,3 +191,8 @@ E:\NIx Projects\AspNetMvcEducationPortal\PL\obj\Debug\net5.0\Razor\Views\Autor\E
 E:\NIx Projects\AspNetMvcEducationPortal\PL\obj\Debug\net5.0\Razor\Views\Autor\Delete.cshtml.g.cs
 E:\NIx Projects\AspNetMvcEducationPortal\PL\obj\Debug\net5.0\Razor\Views\Autor\Details.cshtml.g.cs
 E:\NIx Projects\AspNetMvcEducationPortal\PL\obj\Debug\net5.0\Razor\Views\Autor\Index.cshtml.g.cs
+E:\NIx Projects\AspNetMvcEducationPortal\PL\obj\Debug\net5.0\Razor\Views\Users\Create.cshtml.g.cs
+E:\NIx Projects\AspNetMvcEducationPortal\PL\obj\Debug\net5.0\Razor\Views\Users\Delete.cshtml.g.cs
+E:\NIx Projects\AspNetMvcEducationPortal\PL\obj\Debug\net5.0\Razor\Views\Users\Details.cshtml.g.cs
+E:\NIx Projects\AspNetMvcEducationPortal\PL\obj\Debug\net5.0\Razor\Views\Users\Edit.cshtml.g.cs
+E:\NIx Projects\AspNetMvcEducationPortal\PL\obj\Debug\net5.0\Razor\Views\Users\Index.cshtml.g.cs
